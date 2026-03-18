@@ -31,7 +31,7 @@ const Home = () => {
                 Explore Problems
               </Link>
               <Link
-                to="/login"
+                to="/"
                 className="px-8 py-3.5 border border-gray-300 rounded-lg font-medium hover:bg-gray-50 transition-colors text-center"
               >
                 Sign In

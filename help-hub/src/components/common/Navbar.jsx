@@ -40,7 +40,7 @@ const Navbar = () => {
               to="/home" 
               className="text-xl font-bold text-gray-900 hover:text-blue-600 transition-colors"
             >
-              HelpHub<span className="text-blue-600">.</span>
+              HelpHub<span className="text-blue-600"></span>
             </Link>
           </div>
 

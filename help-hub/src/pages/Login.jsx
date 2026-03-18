@@ -143,7 +143,7 @@ const Login = () => {
           {/* Social Login (Optional) */}
          <div className="mt-6 space-y-3">
   {/* Google */}
-  <a
+  {/* <a
     href="https://accounts.google.com"
     target="_blank"
     rel="noopener noreferrer"
@@ -155,10 +155,10 @@ const Login = () => {
       className="w-5 h-5"
     />
     <span className="font-medium">Continue with Google</span>
-  </a>
+  </a> */}
 
   {/* GitHub */}
-  <a
+  {/* <a
     href="https://github.com/login"
     target="_blank"
     rel="noopener noreferrer"
@@ -170,7 +170,7 @@ const Login = () => {
       className="w-5 h-5"
     />
     <span className="font-medium">Continue with GitHub</span>
-  </a>
+  </a> */}
 </div>
 
 
